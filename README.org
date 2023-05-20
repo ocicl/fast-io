@@ -1,0 +1,9 @@
+* fast-io
+
+Fast octet-vector/stream I/O for Common Lisp
+
+|---------+-----------------------------------------|
+| source  | git:https://github.com/rpav/fast-io.git |
+| commit  | a4c5ad6                                 |
+| systems | fast-io                                 |
+|---------+-----------------------------------------|
